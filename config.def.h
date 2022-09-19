@@ -120,12 +120,12 @@ static const ColorScheme schemes[] = {
 	  "#7aa6da", "#c397d8", "#70c0b1", "#eaeaea",
 	  [256]="#cccccc", "#555555"}, 7, 0, 256, 257},
 
-	// One Half dark
-	{{"#282c34", "#e06c75", "#98c379", "#e5c07b",
-	  "#61afef", "#c678dd", "#56b6c2", "#dcdfe4",
-	  "#282c34", "#e06c75", "#98c379", "#e5c07b",
-	  "#61afef", "#c678dd", "#56b6c2", "#dcdfe4",
-	  [256]="#cccccc", "#555555"}, 7, 0, 256, 257},
+	// Rose Pine
+	{{"#0C0D08", "#ea6f91", "#9bced7", "#f1ca93",
+	  "#018993", "#c3a5e6", "#eabbb9", "#faebd7",
+	  "#D8D8D8", "#ea6f91", "#9bced7", "#f1ca93",
+	  "#018993", "#c3a5e6", "#eabbb9", "#faebd7",
+	  [256]="#D8D8D8", "#D8D8D8"}, 7, 0, 256, 257},
 
 	// One Half light
 	{{"#fafafa", "#e45649", "#50a14f", "#c18401",
