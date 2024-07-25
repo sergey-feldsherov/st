@@ -2,6 +2,10 @@
 
 st version: 0.8.5
 
+## TODO
+
+- figure out how to work with clipboard
+
 ## hotkeys
 
 * `Shift`+`PgUp`/`PgDn` - scroll up / down, scrolls a whole page
